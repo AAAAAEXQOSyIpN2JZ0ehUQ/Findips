@@ -1,9 +1,9 @@
 ![logo](https://img.freepik.com/vector-premium/pelirroja-anime-error-404-pagina-no-encontrada_150972-657.jpg?w=826)
 
-# Herramientas de Escaneo de Red :octocat:
+# Findips :octocat:
 
 ## :information_source: Descripción
-"Findips_arp-scan" y "Findips_nmap" son herramientas implementadas en scripts Bash que utilizan arp-scan y nmap 
+`Findips_arp-scan` y `Findips_nmap` son herramientas de Escaneo de Red implementadas en scripts Bash que utilizan arp-scan y nmap 
 respectivamente. Estas herramientas son útiles para detectar direcciones IP activas en la red, ofreciendo una forma 
 rápida y sencilla de obtener información sobre los dispositivos conectados.
 
@@ -40,7 +40,7 @@ wget https://raw.githubusercontent.com/JennValentine/Findips/main/install.sh; su
 
 ## :rocket: Modo de Uso
 
-Herramienta 1: Ejecutar el script en la red para el escaneo de IP's Activas en la red (ARP-SCAN)
+Herramienta 1: Ejecutar el script en la red para el escaneo de IP's Activas en la red `ARP-SCAN`
 
 ```bash
 Findips_arp-scan
@@ -54,7 +54,7 @@ Findips_arp-scan
 * Utiliza arp-scan para escanear las direcciones IP dentro del rango de red en busca de dispositivos activos.
 * Filtra y muestra solo las direcciones IP activas encontradas en la red.
 
-Herramienta 2: Ejecutar el script en la red para el escaneo de IP's Activas en la red (NMAP)
+Herramienta 2: Ejecutar el script en la red para el escaneo de IP's Activas en la red `NMAP`
 
 ```bash
 Findips_nmap
