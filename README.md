@@ -11,7 +11,7 @@ rápida y sencilla de obtener información sobre los dispositivos conectados.
 ```bash
 cd /opt
 sudo rm -rf Findips
-sudo git clone https://github.com/JennValentine/Findips.git
+sudo git clone https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/Findips.git
 sudo cp /usr/share/arp-scan/ieee-oui.txt /opt/Findips
 sudo cp /etc/arp-scan/mac-vendor.txt /opt/Findips
 sudo chmod +x Findips/*
@@ -35,7 +35,7 @@ cd
 
 ## :computer: Instalación en una Línea
 ```bash
-wget https://raw.githubusercontent.com/JennValentine/Findips/main/install.sh; sudo chmod +x install.sh; sudo ./install.sh; sudo rm -rf install.sh
+wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/Findips/main/install.sh; sudo chmod +x install.sh; sudo ./install.sh; sudo rm -rf install.sh
 ```
 
 ## :rocket: Modo de Uso
@@ -45,7 +45,7 @@ Herramienta 1: Ejecutar el script en la red para el escaneo de IP's Activas en l
 ```bash
 Findips_arp-scan
 ```
-![logo](https://github.com/JennValentine/Findips/blob/main/Imagenes/Findips_arp-scan.jpg)
+![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/Findips/blob/main/Imagenes/Findips_arp-scan.jpg)
 
 ## :star2: Características 
 
@@ -59,7 +59,7 @@ Herramienta 2: Ejecutar el script en la red para el escaneo de IP's Activas en l
 ```bash
 Findips_nmap
 ```
-![logo](https://github.com/JennValentine/Findips/blob/main/Imagenes/Findips_nmap.jpg)
+![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/Findips/blob/main/Imagenes/Findips_nmap.jpg)
 
 ## :star2: Características 
 
