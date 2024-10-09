@@ -1,13 +1,13 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAPJP7ftvY9SJxu44j0H2kAUiNVVgvoJl2hg&s)
+ï»¿![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAPJP7ftvY9SJxu44j0H2kAUiNVVgvoJl2hg&s)
 
 # Findips :octocat:
 
-## :information_source: Descripción
+## :information_source: DescripciÃ³n
 `Findips_arp-scan` y `Findips_nmap` son herramientas de Escaneo de Red implementadas en scripts Bash que utilizan arp-scan y nmap 
-respectivamente. Estas herramientas son útiles para detectar direcciones IP activas en la red, ofreciendo una forma 
-rápida y sencilla de obtener información sobre los dispositivos conectados.
+respectivamente. Estas herramientas son Ãºtiles para detectar direcciones IP activas en la red, ofreciendo una forma 
+rÃ¡pida y sencilla de obtener informaciÃ³n sobre los dispositivos conectados.
 
-## :computer: Instalación
+## :computer: InstalaciÃ³n
 ```bash
 cd /opt
 sudo rm -rf Findips
@@ -33,7 +33,7 @@ sudo mv Findips_nmap /usr/local/bin/
 cd
 ```
 
-## :computer: Instalación en una Línea
+## :computer: InstalaciÃ³n en una LÃ­nea
 ```bash
 wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/Findips/main/install.sh; sudo chmod +x install.sh; sudo ./install.sh; sudo rm -rf install.sh
 ```
@@ -47,10 +47,10 @@ Findips_arp-scan
 ```
 ![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/Findips/blob/main/Imagenes/Findips_arp-scan.jpg)
 
-## :star2: Características 
+## :star2: CaracterÃ­sticas 
 
 * Obtiene el rango de red.
-* Obtiene la dirección IP y la dirección MAC de la interfaz de red.
+* Obtiene la direcciÃ³n IP y la direcciÃ³n MAC de la interfaz de red.
 * Utiliza arp-scan para escanear las direcciones IP dentro del rango de red en busca de dispositivos activos.
 * Filtra y muestra solo las direcciones IP activas encontradas en la red.
 
@@ -61,10 +61,10 @@ Findips_nmap
 ```
 ![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/Findips/blob/main/Imagenes/Findips_nmap.jpg)
 
-## :star2: Características 
+## :star2: CaracterÃ­sticas 
 
 * Obtiene el rango de red.
-* Obtiene la dirección IP y la dirección MAC de la interfaz de red.
+* Obtiene la direcciÃ³n IP y la direcciÃ³n MAC de la interfaz de red.
 * Utiliza Nmap para escanear las direcciones IP dentro del rango de red en busca de dispositivos activos.
 * Filtra y muestra solo las direcciones IP activas encontradas en la red.
 
@@ -75,16 +75,16 @@ Findips_nmap
 
 ## :open_file_folder: Estructura del Repositorio
 
-| Icono            | Nombre              | Descripción                                      |
+| Icono            | Nombre              | DescripciÃ³n                                      |
 |------------------|---------------------|--------------------------------------------------|
-| :file_folder:    | Imagenes            | Carpeta que contiene imágenes del script en ejecución |
+| :file_folder:    | Imagenes            | Carpeta que contiene imÃ¡genes del script en ejecuciÃ³n |
 | :page_facing_up: | Findips_arp-scan    | Script principal que realiza un escaneo de red con arp-scan |
 | :page_facing_up: | Findips_nmap        | Script principal que realiza un escaneo de red con nmap |
 | :page_facing_up: | LICENSE             | Archivo de licencia MIT para el proyecto         |
-| :book:           | README.md           | Archivo README con la documentación del proyecto |
-| :package:        | install.sh          | Script de instalación automatizada               |
+| :book:           | README.md           | Archivo README con la documentaciÃ³n del proyecto |
+| :package:        | install.sh          | Script de instalaciÃ³n automatizada               |
 
 ## :email: Contacto 
-* :busts_in_silhouette: **Dzhoni_dev**: [GitHub](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/Instalador-de-Paqueterias) - Desarrollador Instalador de Paqueterías 
+* :busts_in_silhouette: **Dzhoni_dev**: [GitHub](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/Findips) - Desarrollador Instalador de PaqueterÃ­as 
 
-? https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ???? ] ?
+â˜† https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  âƒ˜âƒ¤ê™°âœ° ] â˜†
