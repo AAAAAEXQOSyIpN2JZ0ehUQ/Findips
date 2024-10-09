@@ -2,7 +2,7 @@
 
 cd /opt
 sudo rm -rf Findips
-sudo git clone https://github.com/JennValentine/Findips.git
+sudo git clone https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/Findips.git
 sudo cp /usr/share/arp-scan/ieee-oui.txt /opt/Findips
 sudo cp /etc/arp-scan/mac-vendor.txt /opt/Findips
 sudo chmod +x Findips/*
