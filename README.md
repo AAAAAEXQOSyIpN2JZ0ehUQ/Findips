@@ -1,4 +1,4 @@
-![logo](https://img.freepik.com/vector-premium/pelirroja-anime-error-404-pagina-no-encontrada_150972-657.jpg?w=826)
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAPJP7ftvY9SJxu44j0H2kAUiNVVgvoJl2hg&s)
 
 # Findips :octocat:
 
@@ -75,23 +75,16 @@ Findips_nmap
 
 ## :open_file_folder: Estructura del Repositorio
 
-```plaintext
-Findips/
-¦
-+-- Imagenes/            # Carpeta que contiene imágenes de ejemplos y del script en ejecución.
-¦   +-- Findips_arp-scan.jpg
-¦   +-- Findips_nmap.jpg
-¦
-+-- Findips_arp-scan     # Script principal que realiza un escaneo de red con arp-scan.
-¦
-+-- Findips_nmap         # Script principal que realiza un escaneo de red con nmap.
-¦
-+-- LICENSE              # Licencia MIT para el proyecto.
-¦
-+-- README.md            # Archivo README con la documentación del proyecto.
-¦
-+-- install.sh           # Script de instalación automática.
-```
+| Icono            | Nombre              | Descripción                                      |
+|------------------|---------------------|--------------------------------------------------|
+| :file_folder:    | Imagenes            | Carpeta que contiene imágenes del script en ejecución |
+| :page_facing_up: | Findips_arp-scan    | Script principal que realiza un escaneo de red con arp-scan |
+| :page_facing_up: | Findips_nmap        | Script principal que realiza un escaneo de red con nmap |
+| :page_facing_up: | LICENSE             | Archivo de licencia MIT para el proyecto         |
+| :book:           | README.md           | Archivo README con la documentación del proyecto |
+| :package:        | install.sh          | Script de instalación automatizada               |
 
-## :email: Contacto
-* :busts_in_silhouette: [Jenn Valentine](https://t.me/JennValentine) - Contribución
+## :email: Contacto 
+* :busts_in_silhouette: **Dzhoni_dev**: [GitHub](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/Instalador-de-Paqueterias) - Desarrollador Instalador de Paqueterías 
+
+? https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ???? ] ?
