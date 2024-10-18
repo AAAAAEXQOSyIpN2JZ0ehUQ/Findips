@@ -85,6 +85,6 @@ fnmap
 | :package:        | install.sh          | Script de instalación automatizada               |
 
 ## :email: Contacto 
-* :busts_in_silhouette: **Dzhoni**: [GitHub](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/Findips) - Desarrollador Findips  
+* :busts_in_silhouette: **Dzhoni**: [GitHub](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/Findips) - Desarrollador Findips 
 
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
