@@ -16,7 +16,7 @@ sudo cp /usr/share/arp-scan/ieee-oui.txt /opt/Findips
 sudo cp /etc/arp-scan/mac-vendor.txt /opt/Findips
 sudo chmod +x Findips/*
 cd Findips
-ls -lthas
+ls -ltha
 ```
 
 ## :key: Acceso Directo

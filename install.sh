@@ -7,14 +7,14 @@ sudo cp /usr/share/arp-scan/ieee-oui.txt /opt/Findips
 sudo cp /etc/arp-scan/mac-vendor.txt /opt/Findips
 sudo chmod +x Findips/*
 cd Findips
-ls -lthas
+ls -ltha
 cd 
-sudo echo "cd /opt/Findips && sudo ./Findips_arp-scan" > Findips_arp-scan
-sudo echo "cd /opt/Findips && sudo ./Findips_nmap" > Findips_nmap
-sudo chmod +x Findips_arp-scan
-sudo chmod +x Findips_nmap
-sudo rm -rf /usr/local/bin/Findips_arp-scan
-sudo rm -rf /usr/local/bin/Findips_nmap
-sudo mv Findips_arp-scan /usr/local/bin/
-sudo mv Findips_nmap /usr/local/bin/
+sudo echo "cd /opt/Findips && sudo ./Findips_arp-scan" > farpscan
+sudo echo "cd /opt/Findips && sudo ./Findips_nmap" > fnmap
+sudo chmod +x farpscan
+sudo chmod +x fnmap
+sudo rm -rf /usr/local/bin/farpscan
+sudo rm -rf /usr/local/bin/fnmap
+sudo mv farpscan /usr/local/bin/
+sudo mv fnmap /usr/local/bin/
 cd
