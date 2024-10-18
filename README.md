@@ -33,6 +33,13 @@ sudo mv fnmap /usr/local/bin/
 cd
 ```
 
+## :package: Paquete
+```bash
+sudo apt-get -y update
+sudo apt-get install -y arp-scan
+sudo apt-get install -y nmap
+```
+
 ## :computer: Instalación en una Línea
 ```bash
 wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/Findips/main/install.sh; sudo chmod +x install.sh; sudo ./install.sh; sudo rm -rf install.sh
