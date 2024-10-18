@@ -22,14 +22,14 @@ ls -ltha
 ## :key: Acceso Directo
 ```bash
 cd 
-sudo echo "cd /opt/Findips && sudo ./Findips_arp-scan" > Findips_arp-scan
-sudo echo "cd /opt/Findips && sudo ./Findips_nmap" > Findips_nmap
-sudo chmod +x Findips_arp-scan
-sudo chmod +x Findips_nmap
-sudo rm -rf /usr/local/bin/Findips_arp-scan
-sudo rm -rf /usr/local/bin/Findips_nmap
-sudo mv Findips_arp-scan /usr/local/bin/
-sudo mv Findips_nmap /usr/local/bin/
+sudo echo "cd /opt/Findips && sudo ./Findips_arp-scan" > farpscan
+sudo echo "cd /opt/Findips && sudo ./Findips_nmap" > fnmap
+sudo chmod +x farpscan
+sudo chmod +x fnmap
+sudo rm -rf /usr/local/bin/farpscan
+sudo rm -rf /usr/local/bin/fnmap
+sudo mv farpscan /usr/local/bin/
+sudo mv fnmap /usr/local/bin/
 cd
 ```
 
@@ -43,7 +43,7 @@ wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/Findips/main/insta
 Herramienta 1: Ejecutar el script en la red para el escaneo de IP's Activas en la red `ARP-SCAN`
 
 ```bash
-Findips_arp-scan
+farpscan
 ```
 ![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/Findips/blob/main/Imagenes/Findips_arp-scan.jpg)
 
@@ -57,7 +57,7 @@ Findips_arp-scan
 Herramienta 2: Ejecutar el script en la red para el escaneo de IP's Activas en la red `NMAP`
 
 ```bash
-Findips_nmap
+fnmap
 ```
 ![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/Findips/blob/main/Imagenes/Findips_nmap.jpg)
 
@@ -85,6 +85,6 @@ Findips_nmap
 | :package:        | install.sh          | Script de instalación automatizada               |
 
 ## :email: Contacto 
-* :busts_in_silhouette: **Dzhoni_dev**: [GitHub](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/Findips) - Desarrollador Findips  
+* :busts_in_silhouette: **Dzhoni**: [GitHub](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/Findips) - Desarrollador Findips  
 
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
