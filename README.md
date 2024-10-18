@@ -42,7 +42,7 @@ sudo apt-get install -y nmap
 
 ## :computer: Instalación en una Línea
 ```bash
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/Findips/main/install.sh; sudo chmod +x install.sh; sudo ./install.sh; sudo rm -rf install.sh
+sudo wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/Findips/main/install.sh -O - | sudo bash
 ```
 
 ## :rocket: Modo de Uso
